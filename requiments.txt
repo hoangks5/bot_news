@@ -1,0 +1,6 @@
+pymongo
+requests
+beautifulsoup4
+torch
+transformers
+python-telegram-bot
